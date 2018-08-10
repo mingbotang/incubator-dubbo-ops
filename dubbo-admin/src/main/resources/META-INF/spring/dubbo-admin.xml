@@ -12,7 +12,7 @@
         <property name="locations">
             <list>
                 <value>/WEB-INF/dubbo.properties</value>
-                <value>file://${user.home}/dubbo.properties</value>
+                <!--<value>file://${user.home}/dubbo.properties</value>-->
             </list>
         </property>
     </bean>
